@@ -1,6 +1,6 @@
 
 function setup(){
-    createCanvas(800, 800);
+    createCanvas(1600, 1600);
     background(90);
 }
 
@@ -22,4 +22,17 @@ function draw(){
     triangle(300, 100, 320, 100, 310, 80);
     fill(4, 190, 123);
     arc(550, 200, 400, 280, PI, TWO_PI);
+    if(mouseX > 800){
+        fill(100, 100, 0);
+        rectMode(CENTER);
+        rect(400, 100, 40, 40)
+    }
+    for (var i=0; i < 50; i++){
+        fill(100, 0, 0);
+        rect(10+i*40, 300, 30, 30);
+    }
+    for (var i=0; i < 50; i++){
+        fill(100, 0, 0);
+        rect(10, 300- i*40, 30, 30);
+    }
 }
