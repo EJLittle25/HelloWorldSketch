@@ -71,11 +71,3 @@ function draw(){
     rect(g, a, 5, 5) // square
 }
 }
-
-function kCLicker(){
-    image('Images/Duke.png', 200, 200, img.width, img.height);
-}
-
-function buttonClicked(){
-    kCLicker();
-}
