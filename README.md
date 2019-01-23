@@ -1,3 +1,4 @@
-This is my first sketch. Before this semester, I had never taken 
+This is my first sketch. Before this semester, I had never taken a Visual Arts class nor had I ever been to a Duke basketball. Since starting the semester, I have been to 3 Duke basketball games and I have attended even more Visual Arts classrs than that. I created the work found in this project to display the excitement I have for both basketball and this class. That is why I have the flashing sign and flashing rectangles accompanied with a "basketball" falling into a hoop. I also wanted to add the sun in the corner as a type of childish artistic flare. I tried hard to incorporate images and motion into this piece because I feel as if these are more challenging aspects of p5.js. In fact, the motion aspects and working with "+"s and "-"s to indicate direction was very confusing for me at first. I thought the only area that moved slowly was with regards to shapes which I found rather simple. I think going forward, reading blogs and watching video tutorials are the best way for me to learn because I am definitely a visual learner and I think if I can see the way code works I can grasp concepts easier.
 
-UPLOAD Screenshot and Description.
+
+!["HelloWorldSketch"](Images/HelloSketch.png?raw=true "HelloWorldSketch")
